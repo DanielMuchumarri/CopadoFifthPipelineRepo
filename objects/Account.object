@@ -5222,6 +5222,16 @@ IMAGE(IF (SDO_Value__c &gt; 4, &apos;https://qnextgen.s3.us-west-1.amazonaws.com
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Test_Deployment__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Deployment</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
