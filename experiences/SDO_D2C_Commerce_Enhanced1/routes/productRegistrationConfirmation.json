@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "d1c1d43c-6c18-4c0f-a038-e83b446cae42",
+  "appPageId" : "26530a1b-2751-466e-aced-0f43a7ecef5e",
+  "configurationTags" : [ ],
+  "devName" : "Product_Registration_Confirmation__c",
+  "label" : "Product Registration Confirmation",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-product-registration-confirmation",
+  "urlPrefix" : "product-registration-confirmation"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>ESW_FINS_IDO_Service_Innov_1730416330050</label>
+    <type>ChatterNetworkPicasso</type>
+    <urlPathPrefix>ESWFINSIDOServiceInnov1730416330050</urlPathPrefix>
+</ExperienceBundle>

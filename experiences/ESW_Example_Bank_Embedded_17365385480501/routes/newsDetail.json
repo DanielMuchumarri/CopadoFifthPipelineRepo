@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "0d3719ee-26e6-4452-87c2-a039e7b2523d",
+  "appPageId" : "a469117c-2032-47c8-8864-8e18aadf17f0",
+  "configurationTags" : [ ],
+  "devName" : "News_Detail__c",
+  "label" : "News Detail",
+  "pageAccess" : "UseParent",
+  "routeType" : "managed-content-sfdc_cms__news",
+  "urlPrefix" : "news"
+}

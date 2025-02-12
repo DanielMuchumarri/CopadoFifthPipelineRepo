@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "27bac954-c9d6-4a7e-9271-07c73e05e614",
+  "appPageId" : "3a241bdb-3c0c-4a4f-b277-1b94130c2d69",
+  "configurationTags" : [ ],
+  "devName" : "Split_Shipment",
+  "id" : "b26fa2a2-3aa0-44cc-bd1a-726bfd85d0fd",
+  "label" : "Split Shipment",
+  "routeType" : "split-shipment",
+  "type" : "route",
+  "urlPrefix" : "split-shipment"
+}

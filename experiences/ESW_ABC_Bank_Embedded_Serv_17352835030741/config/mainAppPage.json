@@ -1,0 +1,10 @@
+{
+  "cmsSettings" : { },
+  "currentThemeId" : "d9a01bc6-3002-429b-b323-a7ba8bebd337",
+  "favIconAssetRef" : null,
+  "headMarkup" : "<link rel=\"stylesheet\" href=\"{ basePath }/assets/styles/embedded-messaging-styling.min.css?{ versionKey }\" />\n\n<!-- webruntime-branding-shared stylesheets -->\n<link rel=\"stylesheet\" href=\"{ basePath }/assets/styles/salesforce-lightning-design-system.min.css?{ versionKey }\" />\n\n\n<!-- webruntime-branding-shared stylesheets -->",
+  "isLockerServiceEnabled" : false,
+  "isRelaxedCSPLevel" : true,
+  "label" : "main",
+  "templateName" : "esw-template-frame"
+}

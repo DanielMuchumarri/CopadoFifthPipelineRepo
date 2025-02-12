@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "c494db5e-ac0e-4d9a-b1da-15e58cea9a8b",
+  "appPageId" : "78ad1f71-2028-4516-ae33-8cd0cb21bab4",
+  "configurationTags" : [ ],
+  "devName" : "Knowledge_List__c",
+  "label" : "Knowledge List",
+  "objectApiName" : "Knowledge__kav",
+  "routeType" : "list-kXX",
+  "urlPrefix" : "article"
+}

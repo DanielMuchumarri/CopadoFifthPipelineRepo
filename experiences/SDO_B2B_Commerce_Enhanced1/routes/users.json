@@ -1,0 +1,10 @@
+{
+  "activeViewId" : "67ddcc6e-512d-45e9-85e2-46afb6ba96ff",
+  "appPageId" : "78ad1f71-2028-4516-ae33-8cd0cb21bab4",
+  "configurationTags" : [ ],
+  "devName" : "Users__c",
+  "label" : "Users",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-users",
+  "urlPrefix" : "users"
+}

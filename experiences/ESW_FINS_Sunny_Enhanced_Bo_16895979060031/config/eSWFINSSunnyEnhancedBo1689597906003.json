@@ -1,0 +1,17 @@
+{
+  "authenticationType" : "AUTHENTICATED_WITH_PUBLIC_ACCESS_ENABLED",
+  "forgotPasswordRouteId" : null,
+  "isFilteredComponentsView" : false,
+  "isProgressiveRenderingEnabled" : false,
+  "mainAppPageId" : "0025509b-0c88-44b1-a191-e11f470a0436",
+  "preferredDomain" : "none",
+  "selfRegistrationRouteId" : null,
+  "trustedSitesForScript" : [ {
+    "id" : "b650727f-4c74-41ac-a714-0f291421a84c",
+    "isActive" : true,
+    "trustedSiteName" : "Messaging for Web host",
+    "trustedSiteUrl" : "https://fins-nextgen-banking.my.salesforce-scrt.com",
+    "type" : "trustedSitesForScripts"
+  } ],
+  "type" : "site"
+}
